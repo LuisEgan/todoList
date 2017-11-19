@@ -1,0 +1,22 @@
+.add {
+  width: 100%;
+  text-align: center;
+}
+
+.add input {
+  display: flex;
+  padding: 2%;
+  margin: 2% auto;
+  width: 70%;
+}
+
+.add button {
+  padding: 0;
+  font-size: 3em;
+  width: 15%;
+  margin: 2%;
+}
+
+table td {
+  text-align: center;
+}
